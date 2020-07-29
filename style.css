@@ -17,3 +17,10 @@ body h1 {
 body p {
   color: white;
 }
+
+.imagem img {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  height: 150px;
+}
